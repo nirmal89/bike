@@ -1,0 +1,43 @@
+
+/* NORMAL CSS*/
+
+h1 {
+  color: #000;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 250%;
+}
+.mtop25{
+  margin-top:25px;
+}
+
+/* FRONTPAGE CSS*/
+.pad0{
+  padding:0;
+}
+nav.navbar{
+  position: absolute!important;
+  z-index:999!important;
+  width:100%;
+}
+html,body{
+
+  height:100%;
+}
+.carousel{
+  position: relative!important;
+}
+.carousel, .carousel .item, .carousel .active{
+height:100%;
+}
+.carousel-inner{
+height:100%;
+}
+
+/* GALLERY CSS*/
+.card{
+  color: #000000!important;
+}
+.card-body:hover {
+   text-decoration: none;
+  
+}
